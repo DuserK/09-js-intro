@@ -4,6 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "namu-darbas":"nodemon ./js/00-namu-darbas.js",
+    "numbers":"nodemon ./js/01-numbers.js",
+    "strings":"nodemon ./js/02-strings.js",
+    "boolean":"nodemon ./js/03-boolean.js",
+    "array":"nodemon ./js/04-array.js",
+    "typeoff":"nodemon ./js/05-typeoff.js",
+    "objects":"nodemon ./js/06-objects.js",
+    "function":"nodemon ./js/07-function.js",
     "dev":"nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
